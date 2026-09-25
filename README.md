@@ -1,16 +1,19 @@
-## Hi there 👋
+### Oi, eu sou o Anderson 👋
 
-<!--
-**Ander770/Ander770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software na PUC-Campinas (6º semestre, conclusão em dezembro de 2027). Tenho projetos em desenvolvimento web, mobile e dados, e estou buscando estágio na área de tecnologia.
 
-Here are some ideas to get you started:
+**Projetos em destaque**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Data Warehouse de Vendas Yamaha](https://github.com/Ander770/data-warehouse-yamaha): projeto individual. Modelo estrela com Python, Pandas, DuckDB e SQL sobre 100 mil vendas, com consultas analíticas e gráficos.
+- [PrimeStudy](https://github.com/Ander770/Prime-Study-PI): plataforma web que gera material de estudo com IA (Gemini) a partir de PDFs. Trabalhei no front-end e na integração com a IA.
+- [Hora Certa](https://github.com/Ander770/HoraCerta-PI-4): app Android de lembrete de medicamentos para idosos e cuidadores (Kotlin, Jetpack Compose).
+- [SuperID](https://github.com/Ander770/SuperID-PI3): app Android de gerenciamento de senhas com login sem senha via QR Code (Kotlin, Firebase).
+- [ElizaBET](https://github.com/Ander770/ElizaBET-PI2): protótipo de plataforma de apostas em TypeScript/Node.js. Fiz a carteira do usuário e o fluxo de aprovação de eventos.
+
+**Tecnologias**
+
+Python · Kotlin · TypeScript/JavaScript · Java · SQL · Flask · Node.js · Jetpack Compose · Firebase · DuckDB · Pandas · Git
+
+**Contato**
+
+AnderLucas770@gmail.com
