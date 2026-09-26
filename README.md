@@ -17,3 +17,4 @@ Python · Kotlin · TypeScript/JavaScript · Java · SQL · Flask · Node.js · 
 **Contato**
 
 AnderLucas770@gmail.com
+LinkedIn: linkedin.com/in/andersongondim
