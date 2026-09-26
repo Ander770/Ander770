@@ -1,6 +1,6 @@
 ### Oi, eu sou o Anderson 👋
 
-Estudante de Engenharia de Software na PUC-Campinas (6º semestre, conclusão em dezembro de 2027). Tenho projetos em desenvolvimento web, mobile e dados, e estou buscando estágio na área de tecnologia.
+Estudante de Engenharia de Software na PUC-Campinas (6º semestre, conclusão em dezembro de 2027). Tenho projetos em desenvolvimento web, mobile e dados.
 
 **Projetos em destaque**
 
